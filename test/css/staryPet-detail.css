@@ -1,0 +1,10 @@
+.main-map {
+	float: left;
+	width: 600px;
+	margin: 10px 200px;
+}
+.content {
+	overflow:hidden;
+	
+	background-color:rgba(232,255,227,0.3);
+}

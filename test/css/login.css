@@ -1,0 +1,22 @@
+.content {
+	width: 1000px;
+	margin:0px auto;
+}
+.cont-title {
+	text-align: center;
+	margin-bottom: 80px;
+	padding-top: 50px;
+}
+.cont-inner {
+	width: 250px;
+	margin:20px auto;
+	text-align: center;
+}
+.cont-inner li {
+	margin-bottom: 20px;
+}
+.cont-btn {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 100px;
+}

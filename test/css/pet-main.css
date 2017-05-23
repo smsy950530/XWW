@@ -1,0 +1,108 @@
+@CHARSET "UTF-8";
+
+body {background:#f7f7d0;}
+.content {
+	width:100%;
+	overflow:hidden;
+	background:url('../img/pet-main.jpg') top center no-repeat;
+	
+}
+.content .cont-inner {
+	width:1000px;
+	margin:20px auto;
+	overflow:hidden;
+
+	height: 900px;
+}
+.content .cont-inner .cotinnerl {
+	width:600px;
+	display:block;
+	height:850px;
+	float:left;
+
+}
+.content .cont-inner .cotinnerr {
+	width:350px;
+	height:800px;
+	float:left;
+	margin-left:25px;
+	background:#bbe5fa;
+	
+	background-color:rgba(41,41,49,0.5);
+	border-radius:10px;
+}
+.content .cont-inner .cotinnerl .innerl-title {
+	color:#e8ffe3;
+	text-align:center;
+	margin-top:20px;
+}
+.content .cont-inner .cotinnerr .innerr-title {
+	color:#e8ffe3;
+	text-align:center;
+	margin-top:20px;
+}
+.content .cont-inner .cotinnerl .innerl-main {
+	overflow:hidden;
+	float:left;
+	margin:20px 25px;
+	position:relative;
+}
+.content .cont-inner .cotinnerl .innerl-bottom {
+	width:250px;
+	height:160px;
+	position:absolute;
+	background-color:rgba(183,233,196,0.7);
+	top:0px;
+	opacity:0;
+	transition: all 0.3s ease;
+}
+.content .cont-inner .cotinnerl .innerl-bottom li {
+	margin:20px;
+}
+.content .cont-inner .cotinnerl .innerl-main img {
+	width:250px;
+	height:200px;
+}
+
+.content .cont-inner .cotinnerr .innerr-main {
+	height:200px;
+	width:330px;
+	margin:20px auto;
+	
+}
+.content .cont-inner .cotinnerr .innerr-main img {
+	width:200px;
+	height:150px;
+	float:left;
+}
+.content .cont-inner .cotinnerr .innerr-main ul {
+	float:left;
+	margin:50px 10px;
+	color:#e8ffe3;
+}
+.cot1-btn {
+	width: 600px;
+	float: left;
+	text-align: center;
+}
+.cot2-btn {
+	float: left;
+	margin-left: 25px;
+	width: 350px;
+	text-align: center;
+}
+.contr-inner {
+	height: 740px;
+}
+.innerl-bottom a:visited {
+	color: #292931;
+}
+.innerl-col {
+	overflow: hidden;
+	background-color: rgba(41,41,49,0.5);
+    border-radius: 10px;
+    height: 732px;
+}
+.page {
+	overflow: hidden;
+}

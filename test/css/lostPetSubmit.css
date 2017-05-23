@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+.cont-title {
+	text-align:center;
+	margin:30px auto;
+}
+.cont-inner {
+	text-align:center;
+}
+.cont-inner table {
+	margin:20px auto;
+}
+.cont-inner .inner-main {
+	line-height:30px;
+}
+.cont-btn {
+	margin-top:35px;
+	margin-bottom:65px;
+}

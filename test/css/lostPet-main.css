@@ -1,0 +1,33 @@
+.content {
+	overflow: hidden;
+	background:url('../img/lostPet-bg.jpg') top center no-repeat;
+}
+.cont-inner {
+	height: 720px;
+	width: 1000px;
+	margin: 0 auto;
+	background-color:rgba(41,41,49,0.5);
+}
+.int-inner {
+	width: 400px;
+	height: 300px;
+	float: left;
+	margin: 10px 50px;
+	text-align: center;
+
+}
+.int-inner img {
+	width: 300px;
+	height: 200px;
+}
+.cont-title {
+	text-align: center;
+	margin: 30px auto;
+	color:#eae1f0;
+}
+.bottom {
+	color: #e8ffe3;
+}
+.cont-btn {
+	text-align: center;
+}

@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+.content {
+	width:1000px;
+	margin:0 auto;
+}
+.content .cont-title {
+	text-align:center;
+	margin:20px auto;
+}
+.cont-inner {
+	text-align:center;
+}
+.cont-inner table {
+	margin:20px auto;
+}
+.cont-inner .inner-main {
+	line-height:30px;
+}
+.inner-btn {
+	margin:30px;
+}

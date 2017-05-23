@@ -1,0 +1,72 @@
+@CHARSET "UTF-8";
+.content {
+	overflow:hidden;
+	height:auto;
+	background-color:rgba(232,255,227,0.3);
+}
+.content .cont-main {
+	width:1000px;
+	margin:20px auto;
+	height:460px;
+}
+.content .cont-main .main-title {
+	text-align:center;
+}
+.content .cont-main .main-img {
+	float:left;
+	margin:65px 20px;
+	margin-bottom: 20px;
+}
+.content .cont-main .main-img img {
+	width:400px;
+	height:300px;
+}
+.content .cont-main .main-inner {
+	float:left;
+	width:500px;
+	margin:65px 20px;
+	margin-bottom: 20px;
+}
+.content .cont-main .main-inner li {
+	margin-top:30px;
+}
+.cont-com {
+	width: 1000px;
+	
+	margin: 20px auto;
+	overflow: hidden;
+	background: #bbe5fa;
+	border-radius: 10px;
+}
+.cont-com .com-user {
+	width:200px;
+	float: left;
+	line-height: 50px;
+	text-align: center;
+}
+.cont-com .com-main {
+	width: 800px;
+	float: left;
+	line-height: 50px;
+}
+.pinglun_text {
+	width: 1000px;
+	margin: 10px auto;
+}
+.pinglun_text textarea {
+	width:1000px;
+	height: 200px;
+}
+.pinglun_btn input {
+	margin: 10px auto;
+	display: block;
+}
+.main-btn {
+
+}
+h5 {
+	margin-top:10px;
+}
+#time,#del {
+	float: right;
+}

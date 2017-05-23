@@ -1,0 +1,15 @@
+.content {
+	width: 1000px;
+	margin:0 auto;
+}
+.cot-title {
+	text-align: center;
+	margin: 30px 0;
+}
+.cot-inner {
+	text-align: center;
+	margin-bottom: 168px;	
+}
+.cot-inner li {
+	margin-bottom: 30px;
+}

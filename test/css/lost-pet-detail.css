@@ -1,0 +1,71 @@
+@CHARSET "UTF-8";
+.content {
+	overflow:hidden;
+	
+	background-color:rgba(232,255,227,0.3);
+}
+.content .container {
+	width:1000px;
+	margin:20px auto;
+	
+}
+.cont-title {
+	text-align:center;
+}
+.cont-main {
+	overflow: hidden;
+}
+.cont-main .img {
+	float:left;
+	margin:65px 20px;
+}
+.cont-main img {
+	width:400px;
+	height:300px;
+}
+.cont-main .main-inner {
+	float:left;
+	width:500px;
+	margin:65px 20px;
+}
+.cont-main .main-inner li {
+	margin-top:30px;
+}
+.main-map {
+	width: 600px;
+	margin:20px auto;
+}
+.pinglun_text {
+	width: 1000px;
+	margin: 10px auto;
+}
+.pinglun_text textarea {
+	width:1000px;
+	height: 200px;
+}
+.pinglun_btn input {
+	margin: 10px auto;
+	display: block;
+}
+.cont-com {
+	width: 1000px;
+	
+	margin: 20px auto;
+	overflow: hidden;
+	background: #bbe5fa;
+	border-radius: 10px;
+}
+.cont-com .com-user {
+	width:200px;
+	float: left;
+	line-height: 50px;
+	text-align: center;
+}
+.cont-com .com-main {
+	width: 800px;
+	float: left;
+	line-height: 50px;
+}
+h5 {
+	margin-top:10px;
+}
